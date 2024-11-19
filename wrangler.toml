@@ -1,4 +1,4 @@
-name = "veloxfusion"
+name = "veloxfusiontop"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "a51aac7d-9d10-4454-a648-d6b4ff99697e"
+UUID = "4a59970d-9d59-45c9-976c-771b591d8be3"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
